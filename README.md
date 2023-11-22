@@ -5,5 +5,5 @@ This repository is for my Tech Academy projects. Each project demonstrates diffe
 # Projects
 
 - [Pizza Menu](Javascript/todo_app/index.html)
-- [Tic-Tac-Toe Game]
-- [Calculator]
+- [Tic-Tac-Toe Game](https://github.com/samsyharath/JavaScript-Projects/tree/65bedc917d35f218266d2b53935c48f4b32465bf/TicTacToe)
+- [Calculator](https://github.com/samsyharath/JavaScript-Projects/blob/65bedc917d35f218266d2b53935c48f4b32465bf/Pizza_Project/Pizza.html)
