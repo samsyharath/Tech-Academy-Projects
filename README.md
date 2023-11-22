@@ -4,6 +4,6 @@ This repository is for my Tech Academy projects. Each project demonstrates diffe
 
 # Projects
 
-Pizza Menu
+[Pizza Menu](https://github.com/samsyharath/Tech-Academy-Projects/Javascript/todo_app/index.html)
 Tic-Tac-Toe Game
 Calculator
